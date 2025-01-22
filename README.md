@@ -38,25 +38,17 @@ cp .env.example .env
 # Edit .env with your API keys and configuration
 ```
 
-## Usage
-
-[Add specific usage instructions once implemented]
-
 ## Configuration
 
 The system can be configured through the `.env` file with the following variables:
 
 - `API_KEY`: Your market data API key
 - `ANALYSIS_INTERVAL`: Frequency of analysis updates
-- [Add other configuration variables as needed]
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Choose and add appropriate license]
 
 ## Disclaimer
 
